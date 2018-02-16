@@ -1,6 +1,5 @@
-
-Android MultiWindowPlayground Sample
-===================================
+Android MultiWindowPlayground Sample (Kotlin)
+=============================================
 
 This sample demonstrates the use of the multi-window API available
 in Android N. It shows the use of new Intent flags and
@@ -48,14 +47,13 @@ Alternatively, the preferred and minimum sizes can be set in a new
 Pre-requisites
 --------------
 
-- Android SDK 24
-- Android Build Tools v27.0.2
+- Android SDK 27
 - Android Support Repository
 
 Screenshots
 -------------
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/main.png" height="400" alt="Screenshot"/>
 
 Getting Started
 ---------------
