@@ -1,0 +1,1 @@
+{"taskNameToClassNameMap":[{"taskName":"androidDependencies","className":"com.android.build.gradle.internal.tasks.DependencyReportTask"}],"tasksSharingOutput":[]}

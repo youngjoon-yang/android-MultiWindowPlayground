@@ -1,0 +1,7 @@
+#Fri Nov 20 00:11:07 KST 2020
+base.0=C\:\\workspace\\intellij\\android-MultiWindowPlayground\\Application\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\workspace\\intellij\\android-MultiWindowPlayground\\Application\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
